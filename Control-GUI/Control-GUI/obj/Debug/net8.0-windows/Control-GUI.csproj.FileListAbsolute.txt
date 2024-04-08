@@ -1,0 +1,16 @@
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\bin\Debug\net8.0-windows\Control-GUI.exe
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\bin\Debug\net8.0-windows\Control-GUI.deps.json
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\bin\Debug\net8.0-windows\Control-GUI.runtimeconfig.json
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\bin\Debug\net8.0-windows\Control-GUI.dll
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\bin\Debug\net8.0-windows\Control-GUI.pdb
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control_GUI.Form1.resources
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.AssemblyInfo.cs
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.dll
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\refint\Control-GUI.dll
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.pdb
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\Control-GUI.genruntimeconfig.cache
+C:\Users\josea\source\repos\Control-GUI\Control-GUI\obj\Debug\net8.0-windows\ref\Control-GUI.dll
